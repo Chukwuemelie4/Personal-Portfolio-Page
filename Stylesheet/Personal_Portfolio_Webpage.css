@@ -24,7 +24,7 @@ nav a:hover { color: blueviolet;}
 /* hsla(261,50%,67%,1.00) */
 
  #projects {	
-	 margin-top: 20%;
+	 margin-top: 8em;
 	background-color: hsla(264,9%,23%,0.83); display: grid; grid-template-columns: repeat(3, 1fr);
 	grid-template-rows: repeat(3, 1fr)
   grid-gap: 10px;
