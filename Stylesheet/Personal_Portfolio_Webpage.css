@@ -10,7 +10,7 @@ nav a:hover { color: blueviolet;}
 
 /*color: hsla(20,7%,20%,1.00)*/
 
-#welcome-section {height: 100vh; background-color: seashell}
+#welcome-section {height: 100vh; background-color: seashell; display: flex; flex-direction: column; column-gap: 0.4em;}
 .welcomesection {text-align: center; }
 .welcome1 {font-size: 3.8em;}
 .welcome3 {font-size: 2.5em;}
