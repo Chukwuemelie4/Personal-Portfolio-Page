@@ -8,6 +8,8 @@ nav a { margin-right: 2%; font-size: 2em; text-decoration: none; color: seashell
 
 nav a:hover { color: blueviolet;}
 
+header {display: flex !important; column-gap: 0.4em !important}
+
 /*color: hsla(20,7%,20%,1.00)*/
 
 #welcome-section {height: 100vh; background-color: seashell}
