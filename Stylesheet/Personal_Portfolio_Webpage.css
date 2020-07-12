@@ -12,8 +12,8 @@ nav a:hover { color: blueviolet;}
 
 #welcome-section {height: 100vh; background-color: seashell;}
 .welcomesection {text-align: center; }
-.welcome1 {font-size: 3.8em; position: relative; top: 0.5em;}
-.welcome3 {font-size: 2.5em; position: relative; bottom: 0.5em;}
+.welcome1 {font-size: 3.8em; position: relative; top: 0.5rem;}
+.welcome3 {font-size: 2.5em; position: relative; bottom: 0.5rem;}
 .welcome2 {color: firebrick;}
 
 
